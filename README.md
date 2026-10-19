@@ -2,7 +2,7 @@
 
 By John Khan
 
-**Kaggle notebook:** coming soon <!-- KAGGLE_URL -->
+**Kaggle notebook:** [Real Interest Rates in Canada Since 2009 on Kaggle](https://www.kaggle.com/code/johnnykhan1/real-interest-rates-in-canada-since-2009)
 
 ## Question
 
