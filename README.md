@@ -1,3 +1,5 @@
+![Real Interest Rates in Canada](assets/banner.png)
+
 # Real Interest Rates in Canada Since 2009
 
 **Canada's real policy rate and real 5 year bond yield since 2009, using CPI and core inflation from the Bank of Canada.**
